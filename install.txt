@@ -1,0 +1,3 @@
+pip install discord.py python-i18n yt-dlp spotipy aiosqlite python-dotenv
+
+Create .env file

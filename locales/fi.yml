@@ -1,0 +1,24 @@
+fi:
+  language:
+    not_supported: "Kieltä ei tueta. Saatavilla olevat kielet: en, fi, sv"
+    changed: "Kieli vaihdettu suomeksi"
+    current: "Nykyinen kieli on suomi"
+  music:
+    not_in_voice: "Et ole äänikanavalla."
+    now_playing: "Nyt soi: %{song}"
+    paused: "Musiikki pysäytetty."
+    resumed: "Musiikki jatkuu."
+    stopped: "Musiikki pysäytetty."
+  games:
+    guess: "Arvaa numero 1-10 väliltä!"
+    timeout: "Aika loppui! Oikea numero oli %{number}."
+    correct: "Oikein! Saat 100 krediittiä!"
+    wrong: "Väärin. Oikea numero oli %{number}."
+    credits: "Sinulla on %{amount} krediittiä."
+  shop:
+    title: "Kauppa"
+    description: "Osta tavaroita krediiteillä!"
+    item: "%{description} - %{price} krediittiä"
+    not_available: "Tätä tavaraa ei ole kaupassa."
+    not_enough_credits: "Sinulla ei ole tarpeeksi krediittejä."
+    purchased: "Ostit %{item}! Sinulle jäi %{credits} krediittiä."

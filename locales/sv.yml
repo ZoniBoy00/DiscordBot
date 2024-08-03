@@ -1,0 +1,24 @@
+sv:
+  language:
+    not_supported: "Språket stöds inte. Tillgängliga språk: en, fi, sv"
+    changed: "Språket ändrat till svenska"
+    current: "Nuvarande språk är svenska"
+  music:
+    not_in_voice: "Du är inte i en röstkanal."
+    now_playing: "Nu spelas: %{song}"
+    paused: "Musiken pausad."
+    resumed: "Musiken fortsätter."
+    stopped: "Musiken stoppad."
+  games:
+    guess: "Gissa ett nummer mellan 1-10!"
+    timeout: "Tiden är ute! Det rätta numret var %{number}."
+    correct: "Rätt! Du får 100 krediter!"
+    wrong: "Fel. Det rätta numret var %{number}."
+    credits: "Du har %{amount} krediter."
+  shop:
+    title: "Butik"
+    description: "Köp saker med krediter!"
+    item: "%{description} - %{price} krediter"
+    not_available: "Denna vara finns inte i butiken."
+    not_enough_credits: "Du har inte tillräckligt med krediter."
+    purchased: "Du köpte %{item}! Du har %{credits} krediter kvar."

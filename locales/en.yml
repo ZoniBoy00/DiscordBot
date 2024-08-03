@@ -1,0 +1,24 @@
+en:
+  language:
+    not_supported: "Language not supported. Available languages: en, fi, sv"
+    changed: "Language changed to English"
+    current: "Current language is English"
+  music:
+    not_in_voice: "You are not in a voice channel."
+    now_playing: "Now playing: %{song}"
+    paused: "Music paused."
+    resumed: "Music resumed."
+    stopped: "Music stopped."
+  games:
+    guess: "Guess a number between 1-10!"
+    timeout: "Time's up! The correct number was %{number}."
+    correct: "Correct! You get 100 credits!"
+    wrong: "Wrong. The correct number was %{number}."
+    credits: "You have %{amount} credits."
+  shop:
+    title: "Shop"
+    description: "Buy items with credits!"
+    item: "%{description} - %{price} credits"
+    not_available: "This item is not available in the shop."
+    not_enough_credits: "You don't have enough credits."
+    purchased: "You bought %{item}! You have %{credits} credits left."
